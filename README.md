@@ -12,8 +12,8 @@ Zavvy Solutions provide all Technology, Innovation and Digital Consulting and Ou
 - Services
 
 a) Zavvy AI and Security
-1.) Artificial Intelligence, ML & NLP
-2.) Robotic process automation (RPA) 
+-1.) Artificial Intelligence, ML & NLP
+-2.) Robotic process automation (RPA) 
 3.) Internet of things (IOT) 
 4.) Cyber Security 
 5.) Cloud Computing
